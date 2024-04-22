@@ -1,0 +1,263 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color:rgb(247, 243, 243);
+    
+}
+
+
+
+
+main {
+    max-width: 1200px;
+    width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+    top: 400px;
+    position: absolute;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.constructor-logo {
+    height: 30px;
+}
+
+.pilot-img, .team-logo {
+    max-height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+.pilot-name, .team-name {
+    text-align: center;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+
+
+.logo h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
+
+section h2 {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 95%;
+    border-collapse: collapse;
+    
+    border: 1px solid #ddd;
+    background-color: #fff;
+    left:35px;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tfoot {
+    font-weight: bold;
+}
+
+
+
+.constructor-logo {
+    height: 30px;
+}
+
+.tituloo{
+    position: absolute;
+    top: 10px;
+    left: 330px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background: rgb(256, 256, 256);
+    
+}
+.logoum{
+    position: absolute;
+
+    left: 1180px;
+    background:rgb(256, 256, 256);
+
+    }
+.logodois{
+    position: absolute;
+    left: 30px;
+    background: rgb(256, 256, 256);
+    top: 10px;
+}
+.botoes{
+    position: absolute;
+    top: 130px;
+    background:rgb(0, 0, 0);
+    color: #ddd;
+    width: 100%;
+    height: 150x;
+    text-align: center;
+}
+.botao{
+    
+    background-color:rgb(255, 0, 0);
+    height: 100px;
+    width: 250px;
+    border-radius:80px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    
+
+}
+.etapass{
+    position: absolute;
+    top: 200px;
+    background-color:#ffffff;
+    
+
+}
+.tituloclassicacao{
+    position: absolute;
+    text-align: center;
+    border-radius:auto;
+    top: 100px;
+    background: #333;
+    color: white;
+    width: 100;
+    font-weight: bold;
+    height: 40px;
+    font-size: 30px;
+    font-family :Arial, Helvetica, sans-serif;
+
+}
+.pistaaa{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+table {
+    width: 35%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    
+}
+.claspilotos{
+    position: absolute;
+    top: 1300px;
+    width: 100%;
+    background-color:#ffffff;
+
+}
+.pilotoss{
+    position: absolute;
+    top: 150px;
+    width: 100%;
+    left: 170px;
+
+}
+ 
+.classificacaoequipe{
+ 
+    position: absolute;
+    top: 200px;
+    background-color:#ffffff;
+    width: 100%;
+    
+
+
+}
+.sistemapontuacao{
+    position: absolute;
+    top: 1950px;
+    background-color:#ffffff;
+    width: 100%;
+    
+
+}
+.tituloesquipe{
+    position: absolute;
+    top: 150px;
+    left: 450px;
+}
+.clasesqui{ 
+    position: absolute;
+    top: 230px;
+    background-color:#ffffff;
+    width: 100%;
+
+}
+.paginainicial{
+    position: absolute;
+    top: 250px;
+    left: 570px;
+}
+.classtabelainicial{
+    position: absolute;
+    top: 350px;
+    width: 100%;
+
+}
+.sistemapon{
+    position: absolute;
+    top: 1900px;
+    left: 570px;
+
+}
